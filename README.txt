@@ -17,3 +17,4 @@ ADDTIONAL NOTES
 URL aliases need to be regenerated when content is moved around in the menu structure to generate the correct alias and render the correct header.
 
 Theme is a Zen Subtheme.
+See template.php and page.tpl.php
